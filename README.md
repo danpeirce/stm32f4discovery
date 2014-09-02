@@ -2,7 +2,7 @@
 
 Notes will be added as I try out the board. More to come...
 
-## ST-LINK/V2 USB driver for Windows 7, Vista and XP 
+## ST-LINK/V2 USB Utility (includes driver) 
 
 The link given below installed and the board is recognized when attached. 
 
