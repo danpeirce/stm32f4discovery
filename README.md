@@ -13,3 +13,8 @@ The link given below installed and the board is recognized when attached.
 *emBlocks* is an Integrated Development Environment for embedded systems. It is a free download as an installer for window PCs.
 
 * [emblocks](http://www.emblocks.org/web/)  -- Installer for the IDE
+
+## Other links (may be of interest)
+
+* <http://techwithdave.blogspot.ca/2013/04/hello-world-tutorial-for-stm-discovery.html>
+
