@@ -4,11 +4,9 @@ Notes will be added as I try out the board. More to come...
 
 ## ST-LINK/V2 USB driver for Windows 7, Vista and XP 
 
-I tried this driver but my netbook would not restart until I reverted to a point before the install. 
+The link given below installed and the board is recognized when attached. 
 
-* [ST-LINK/V2 USB driver download page](http://www.st.com/web/en/catalog/tools/PF258167#)
-
-I will have to try it on a desktop. The discovery board has a built in ST-LINK/V2 for programming and debugging.
+* [ST-LINK/V2 USB utility download page](http://www.st.com/web/en/catalog/tools/PF258168)
 
 ## emBlocks IDE
 
