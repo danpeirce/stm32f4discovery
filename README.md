@@ -18,7 +18,7 @@ The link given below installed and the board is recognized when attached.
 
 Uses micro USB port as a virtual com port.
 
-* [Virtual com Port](emblocks/VCP)
+* [Virtual com Port](emblocks/vcp)
 
 ## Other links (may be of interest)
 
