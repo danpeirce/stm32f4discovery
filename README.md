@@ -14,6 +14,12 @@ The link given below installed and the board is recognized when attached.
 
 * [emblocks](http://www.emblocks.org/web/)  -- Installer for the IDE
 
+### Example emBlocks Project
+
+Uses micro USB port as a virtual com port.
+
+* [Virtual com Port](emblocks/VCP)
+
 ## Other links (may be of interest)
 
 * <http://techwithdave.blogspot.ca/2013/04/hello-world-tutorial-for-stm-discovery.html>
