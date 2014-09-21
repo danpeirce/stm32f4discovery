@@ -22,5 +22,6 @@ Uses micro USB port as a virtual com port.
 
 ## Other links (may be of interest)
 
+* <http://www.electroons.com/blog/2013/01/getting-started-with-stm32f4-discovery-board/>
 * <http://techwithdave.blogspot.ca/2013/04/hello-world-tutorial-for-stm-discovery.html>
 
